@@ -1,3 +1,13 @@
+## Change Log
+Mauro, Fev 24, 2024 - Add Docker stuff for wls2.
+```
+./docker-build.sh
+./docker-run.sh
+```
+
+
+
+
 # FILM: Frame Interpolation for Large Motion
 
 ### [Website](https://film-net.github.io/) | [Paper](https://arxiv.org/pdf/2202.04901.pdf) | [Google AI Blog](https://ai.googleblog.com/2022/10/large-motion-frame-interpolation.html) | [Tensorflow Hub Colab](https://www.tensorflow.org/hub/tutorials/tf_hub_film_example) | [YouTube](https://www.youtube.com/watch?v=OAD-BieIjH4) <br>

@@ -1,0 +1,1 @@
+docker run --rm --gpus all -v /home/mauro/ptm:/ptm -v /home/mauro/photos:/photos frame-interpolation 
